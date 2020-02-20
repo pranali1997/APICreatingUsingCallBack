@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "my node app",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "sinon": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Mongoose"
+  ],
+  "author": "",
+  "license": "ISC"
+}
